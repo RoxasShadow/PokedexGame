@@ -1,0 +1,2 @@
+C:\Users\Giovanni\Desktop\Pokédex\Pokédex\PokédexContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\Giovanni\Desktop\Pokédex\Pokédex\PokédexContent\obj\x86\Debug\ResolveAssemblyReference.cache

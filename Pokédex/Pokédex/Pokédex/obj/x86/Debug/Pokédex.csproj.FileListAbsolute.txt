@@ -1,0 +1,12 @@
+C:\Users\Giovanni\Desktop\Pokédex\Pokédex\Pokédex\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Giovanni\Desktop\Pokédex\Pokédex\Pokédex\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Giovanni\Desktop\Pokédex\Pokédex\Pokédex\bin\x86\Debug\Pokédex.exe
+C:\Users\Giovanni\Desktop\Pokédex\Pokédex\Pokédex\bin\x86\Debug\Pokédex.pdb
+C:\Users\Giovanni\Desktop\Pokédex\Pokédex\Pokédex\obj\x86\Debug\Pokédex.exe
+C:\Users\Giovanni\Desktop\Pokédex\Pokédex\Pokédex\obj\x86\Debug\Pokédex.pdb
+D:\Users\Giovanni\Desktop\Pokédex\Pokédex\Pokédex\bin\x86\Debug\Pokédex.exe
+D:\Users\Giovanni\Desktop\Pokédex\Pokédex\Pokédex\bin\x86\Debug\Pokédex.pdb
+D:\Users\Giovanni\Desktop\Pokédex\Pokédex\Pokédex\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\Giovanni\Desktop\Pokédex\Pokédex\Pokédex\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Users\Giovanni\Desktop\Pokédex\Pokédex\Pokédex\obj\x86\Debug\Pokédex.exe
+D:\Users\Giovanni\Desktop\Pokédex\Pokédex\Pokédex\obj\x86\Debug\Pokédex.pdb
